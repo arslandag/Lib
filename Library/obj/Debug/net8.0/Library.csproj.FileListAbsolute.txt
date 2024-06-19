@@ -1,0 +1,4 @@
+D:\proectvisual\Library\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\proectvisual\Library\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+D:\proectvisual\Library\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+D:\proectvisual\Library\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
