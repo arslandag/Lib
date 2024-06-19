@@ -36,4 +36,31 @@ public static class Square
 
         return result;
     }
+    
+    public static double AreaOfTriangle(int a, double b, double c)
+    {
+        var perimetr = a + b + c;
+        
+        var result = Math.Sqrt(perimetr) * (perimetr - a) * (perimetr - b) * (perimetr - c); 
+        
+        return result;
+    }
+    
+    public static double AreaOfTriangle(double a, int b, double c)
+    {
+        var perimetr = a + b + c;
+        
+        var result = Math.Sqrt(perimetr) * (perimetr - a) * (perimetr - b) * (perimetr - c); 
+        
+        return result;
+    }
+    
+    public static double AreaOfTriangle(double a, double b, int c)
+    {
+        var perimetr = a + b + c;
+        
+        var result = Math.Sqrt(perimetr) * (perimetr - a) * (perimetr - b) * (perimetr - c); 
+        
+        return result;
+    }
 }
